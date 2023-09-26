@@ -1,0 +1,7 @@
+ body {
+     background: no-repeat center/80% url("../images/city.png");
+}
+.hydrant {
+    position: static
+
+}

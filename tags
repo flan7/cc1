@@ -10,6 +10,9 @@
 !_TAG_FIELD_DESCRIPTION	typeref	/Type and name of a variable or typedef/
 !_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
 !_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_KIND_DESCRIPTION!CSS	c,class	/classes/
+!_TAG_KIND_DESCRIPTION!CSS	i,id	/identities/
+!_TAG_KIND_DESCRIPTION!CSS	s,selector	/selectors/
 !_TAG_KIND_DESCRIPTION!HTML	C,stylesheet	/stylesheets/
 !_TAG_KIND_DESCRIPTION!HTML	I,id	/identifiers/
 !_TAG_KIND_DESCRIPTION!HTML	J,script	/scripts/
@@ -23,6 +26,7 @@
 !_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
 !_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
 !_TAG_OUTPUT_VERSION	0.0	/current.age/
+!_TAG_PARSER_VERSION!CSS	0.0	/current.age/
 !_TAG_PARSER_VERSION!HTML	0.0	/current.age/
 !_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
 !_TAG_PROC_CWD	/home/toqov/toqov/Nextcloud/Documents/School/WEB/CC1/cc1/	//
@@ -33,4 +37,5 @@
 !_TAG_ROLE_DESCRIPTION!HTML!class	attribute	/assigned as attributes/
 !_TAG_ROLE_DESCRIPTION!HTML!script	extFile	/referenced as external files/
 !_TAG_ROLE_DESCRIPTION!HTML!stylesheet	extFile	/referenced as external files/
-My First Heading	index.html	/^<h1>My First Heading<\/h1>$/;"	h
+.hydrant	style.css	/^.hydrant {$/;"	c
+body	style.css	/^ body {$/;"	s
