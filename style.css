@@ -1,8 +1,77 @@
 body {
     background-image: url('images/city.jpg');
     background-size: cover;
+    height: 1000px;
+    width: auto;
 }
 .hydrant {
-    position: static;
+    position: absolute;
+    width: 20%;
+    height: auto;
+    bottom: -60px;
+
+}
+.guy_up {
+    position: absolute;
+    width: 15%;
+    height: auto;
+    top: 0px;
+    left: 900px;
+
+}
+.pig {
+    position: absolute;
+    width: 20%;
+    height: auto;
+    left: 200px;
+    bottom: -60px;
+
+}
+.evergreen {
+    position: absolute;
+    width: 20%;
+    height: auto;
+    left: 1000px;
+    bottom: -60px;
+
+}
+.helicopter_red {
+    position: absolute;
+    width: 15%;
+    height: auto;
+    top: 0px;
+    left: 1200px;
+
+}
+.rat {
+    position: absolute;
+    width: 20%;
+    height: auto;
+    left: 300px;
+    bottom: -100px;
+
+}
+.yellow_car {
+    position: absolute;
+    width: 20%;
+    height: auto;
+    left: 800px;
+    bottom: -60px;
+
+}
+.helicopter_static {
+    position: absolute;
+    width: 15%;
+    height: auto;
+    top: 0px;
+    left: 300px;
+
+}
+.sad_cloud {
+    position: absolute;
+    width: 15%;
+    height: auto;
+    top: 0px;
+    left: 15000px;
 
 }

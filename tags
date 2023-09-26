@@ -37,5 +37,13 @@
 !_TAG_ROLE_DESCRIPTION!HTML!class	attribute	/assigned as attributes/
 !_TAG_ROLE_DESCRIPTION!HTML!script	extFile	/referenced as external files/
 !_TAG_ROLE_DESCRIPTION!HTML!stylesheet	extFile	/referenced as external files/
+.evergreen	style.css	/^.evergreen {$/;"	c
+.guy_up	style.css	/^.guy_up {$/;"	c
+.helicopter_red	style.css	/^.helicopter_red {$/;"	c
+.helicopter_static	style.css	/^.helicopter_static {$/;"	c
 .hydrant	style.css	/^.hydrant {$/;"	c
+.pig	style.css	/^.pig {$/;"	c
+.rat	style.css	/^.rat {$/;"	c
+.sad_cloud	style.css	/^.sad_cloud {$/;"	c
+.yellow_car	style.css	/^.yellow_car {$/;"	c
 body	style.css	/^body {$/;"	s
