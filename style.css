@@ -1,5 +1,6 @@
- body {
-     background: url('images/city.jpg');
+body {
+    background-image: url('images/city.jpg');
+    background-size: cover;
 }
 .hydrant {
     position: static;

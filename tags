@@ -38,4 +38,4 @@
 !_TAG_ROLE_DESCRIPTION!HTML!script	extFile	/referenced as external files/
 !_TAG_ROLE_DESCRIPTION!HTML!stylesheet	extFile	/referenced as external files/
 .hydrant	style.css	/^.hydrant {$/;"	c
-body	style.css	/^ body {$/;"	s
+body	style.css	/^body {$/;"	s
